@@ -1,3 +1,4 @@
+package week1;
 public class latian{
     public static void main(String[] args) {
         String NampanA = "Bola Bulan";

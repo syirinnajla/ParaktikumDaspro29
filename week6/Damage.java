@@ -1,7 +1,7 @@
-
+package week6;
 import java.util.Scanner;
 
-public class DamageFreeFire {
+public class Damage {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
